@@ -1,0 +1,12 @@
+=================================
+Trained File:	trainingSet.txt
+Ran On:		trainingSet.txt
+Accuracy Found:	100.0%
+=================================
+
+=================================
+Trained File:	trainingSet.txt
+Ran On:		testSet.txt
+Accuracy Found:	77.67%
+=================================
+
